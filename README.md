@@ -10,3 +10,5 @@
     v11.6.0
     atg:~/NodeJS/workspace/NodeJSLearning (master)$ npm -v
     6.5.0-next.0
+## To install IDE(Visual Studio Code)
+   Follow instruction from : https://code.visualstudio.com/docs/setup/linux
